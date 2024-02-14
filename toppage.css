@@ -27,3 +27,13 @@ header .headline{
     display: inline-block;
     margin: 0 20px;
 }
+
+.profile {
+    text-align: center;
+    margin-top:50px;
+}
+
+.icon {
+    width: 250px;
+    height: 250px;
+}
