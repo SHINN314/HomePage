@@ -37,3 +37,27 @@ header .headline{
     width: 250px;
     height: 250px;
 }
+
+.profile-detail {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+ul.profile-align {
+    text-align: left;
+    display: inline-block;
+}
+
+.profile-items {
+    margin: 10px auto;
+    font-weight: 700;
+    font-size: 20px;
+    list-style: none;
+}
+
+ul.SNSs {
+    display: flex;
+    list-style: none;
+    text-align: left;
+}
