@@ -3,11 +3,6 @@
     padding:0;
 }
 
-a {
-    color: inherit; /* リンクの色を親要素と同じ色に設定 */
-    text-decoration: none; /* リンクの下線を削除 */
-}
-
 header {
     width: 100%;
     padding: 15px 0;
@@ -59,4 +54,9 @@ ul.profile-align {
     font-weight: 700;
     font-size: 20px;
     list-style: none;
+}
+
+a.img-style {
+    color: inherit; /* リンクの色を親要素と同じ色に設定 */
+    text-decoration: none; /* リンクの下線を削除 */
 }
