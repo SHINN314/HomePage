@@ -60,3 +60,11 @@ a.img-style {
     color: inherit; /* リンクの色を親要素と同じ色に設定 */
     text-decoration: none; /* リンクの下線を削除 */
 }
+
+.history {
+    margin: 100px 150px;
+}
+
+.history-detail {
+    margin: 100px 300px;
+}
