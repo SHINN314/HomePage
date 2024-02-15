@@ -56,7 +56,7 @@ ul.profile-align {
     list-style: none;
 }
 
-a.img-style {
+a.normal-link-style {
     color: inherit; /* リンクの色を親要素と同じ色に設定 */
     text-decoration: none; /* リンクの下線を削除 */
 }
