@@ -61,10 +61,14 @@ a.img-style {
     text-decoration: none; /* リンクの下線を削除 */
 }
 
-.history {
-    margin: 100px 150px;
+.titles {
+    margin: 100px 200px;
 }
 
 .history-detail {
-    margin: 100px 300px;
+    margin: 30px 100px;
+}
+
+.history-items {
+    margin: 25px auto;
 }
