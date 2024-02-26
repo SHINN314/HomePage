@@ -11,7 +11,7 @@ const container = document.getElementById('qiita-posts');
 fetch(url, {
   headers: {
     // Authorizationヘッダーにアクセストークンを指定
-    'Authorization': 'Bearer 2fb395d53a3be33887461e9e44a538703fc8a198'
+    'Authorization': 'Bearer '
   }
 })
   // 読み込んだレスポンスの内容をJSON形式に変換してリターンする
